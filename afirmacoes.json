@@ -1,0 +1,122 @@
+[
+  {
+    "id": "VD-01",
+    "cor": "verde",
+    "afirmacao": "Usar a IA para gerar um quiz com 5 perguntas difíceis sobre o sistema digestivo para testar a matéria antes da prova de biologia.",
+    "explicacao": "A IA está funcionando como uma ferramenta de apoio ao estudo (um \"tutor particular\"), ajudando você a praticar e fixar o que estudou."
+  },
+  {
+    "id": "VD-02",
+    "cor": "verde",
+    "afirmacao": "Pedir para a IA dar ideias de temas e sugestões de tópicos para um projeto de feira de ciências, usando-as como ponto de partida para o grupo pesquisar.",
+    "explicacao": "A IA serve como um gerador de brainstorming (chuva de ideias). O grupo decide o caminho, pesquisa as fontes reais e constrói o projeto com as próprias mãos."
+  },
+  {
+    "id": "VD-03",
+    "cor": "verde",
+    "afirmacao": "Escrever uma redação inteira com suas próprias palavras e pedir para a IA apontar onde há erros de gramática, pontuação ou repetição de palavras.",
+    "explicacao": "O texto é 100% seu. A IA atua apenas como um corretor ortográfico avançado, ajudando você a melhorar a qualidade do próprio esforço."
+  },
+  {
+    "id": "VD-04",
+    "cor": "verde",
+    "afirmacao": "Usar a IA para explicar um conceito difícil de física usando um exemplo simples com videogame, para que você consiga entender a lógica por trás da matéria.",
+    "explicacao": "Personalização do aprendizado. A IA traduz uma linguagem acadêmica complexa para algo que faz sentido na sua realidade."
+  },
+  {
+    "id": "VD-05",
+    "cor": "verde",
+    "afirmacao": "Gerar uma imagem abstrata por IA para colocar na capa de um trabalho em grupo e incluir na legenda a frase: 'Imagem gerada por inteligência artificial (Ferramenta X)'.",
+    "explicacao": "Total transparência. Você usou a ferramenta com criatividade e deu o crédito correto sobre a origem dela."
+  },
+  {
+    "id": "VD-06",
+    "cor": "verde",
+    "afirmacao": "Pedir para a IA ajudar a organizar a sua rotina de estudos da semana, dividindo os horários em que você vai ler o livro, fazer os deveres e descansar.",
+    "explicacao": "A IA atua como uma secretária ou organizadora de tempo pessoal, ajudando você a desenvolver autonomia e disciplina nos estudos."
+  },
+  {
+    "id": "AM-01",
+    "cor": "amarelo",
+    "afirmacao": "Pedir para o ChatGPT escrever a introdução de uma redação, dar uma leve mexida em algumas palavras para parecer que foi você quem escreveu e entregar.",
+    "explicacao": "Embora você tenha mudado algumas palavras, o pensamento e a estrutura principal não vieram da sua cabeça. É uma forma de enganar o processo de aprendizagem, criando uma dependência da IA para pensar por você."
+  },
+  {
+    "id": "AM-02",
+    "cor": "amarelo",
+    "afirmacao": "Usar uma IA para traduzir o texto de um site para o seu trabalho escolar, mas copiar e colar o texto direto sem ler ou verificar se a tradução faz sentido.",
+    "explicacao": "A IA pode errar na tradução de termos técnicos (as famosas \"alucinações\"). Entregar algo sem ler é negligência e pode espalhar informações totalmente erradas."
+  },
+  {
+    "id": "AM-03",
+    "cor": "amarelo",
+    "afirmacao": "Fazer um resumo de um livro clássico de literatura usando a IA e decidir ler apenas esse resumo para a prova, sem abrir o livro original.",
+    "explicacao": "Não chega a ser um crime, mas é um atalho que sabota o seu desenvolvimento. Você perde a experiência de leitura, interpretação e o contato com a obra."
+  },
+  {
+    "id": "AM-04",
+    "cor": "amarelo",
+    "afirmacao": "Pedir conselhos de saúde, emocionais ou sobre sentimentos para uma IA e seguir as orientações dela.",
+    "explicacao": "IAs não têm empatia real nem formação profissional. Seguir conselhos de saúde ou emocionais de um algoritmo sem consultar um adulto de confiança ou especialista pode ser perigoso para o seu bem-estar."
+  },
+  {
+    "id": "AM-05",
+    "cor": "amarelo",
+    "afirmacao": "Usar IA para gerar fatos, datas e estatísticas para um trabalho de geografia e colocar no cartaz.",
+    "explicacao": "As IAs frequentemente inventam dados convincentes que parecem reais, mas são falsos. Publicar ou apresentar isso sem checar em fontes confiáveis espalha mentiras."
+  },
+  {
+    "id": "AM-06",
+    "cor": "amarelo",
+    "afirmacao": "Pedir para a IA criar uma mensagem de desculpas bem bonita para mandar para um amigo com quem você brigou, sem mudar nenhuma vírgula.",
+    "explicacao": "O problema aqui não é a lei, mas a sinceridade. Pedir para uma máquina fingir sentimentos que deveriam vir de você destrói a amizade e o pedido de desculpas."
+  },
+  {
+    "id": "AM-07",
+    "cor": "amarelo",
+    "afirmacao": "Pedir para a IA resolver todos os cálculos de uma lista de exercícios de matemática e apenas copiar os resultados na folha de entrega.",
+    "explicacao": "Você entrega a tarefa feita, mas não aprendeu nada. Na hora da prova, quando a IA não estiver lá, você não vai saber resolver sozinho."
+  },
+  {
+    "id": "AM-08",
+    "cor": "amarelo",
+    "afirmacao": "Gerar uma imagem por IA para um trabalho escolar e colocá-la no cartaz fingindo que foi você quem desenhou ou fotografou aquilo.",
+    "explicacao": "A falta de transparência é o problema. Usar imagens geradas por IA é permitido se você assumir isso, mas fingir autoria engana quem está avaliando o seu trabalho."
+  },
+  {
+    "id": "VM-01",
+    "cor": "vermelho",
+    "afirmacao": "Usar uma ferramenta de IA para clonar a voz de um professor e criar um áudio falso dizendo coisas que ele nunca falou.",
+    "explicacao": "Falsificar a identidade de alguém com áudio ou vídeo (deepfake) destrói a reputação da pessoa, causa constrangimento sério e fere o direito à imagem e à privacidade."
+  },
+  {
+    "id": "VM-02",
+    "cor": "vermelho",
+    "afirmacao": "Colocar os dados pessoais, fotos e segredos de um colega em uma IA para pedir que o sistema analise a vida dele e exponha defeitos.",
+    "explicacao": "Viola totalmente a privacidade alheia e as regras de proteção de dados. Expor a vida íntima de outra pessoa sem consentimento é bullying digital e pode gerar danos psicológicos."
+  },
+  {
+    "id": "VM-03",
+    "cor": "vermelho",
+    "afirmacao": "Pedir para a IA gerar imagens falsas de uma pessoa da escola em situações constrangedoras para chantagear ou rir dela com os amigos.",
+    "explicacao": "É assédio e cyberbullying gerado por tecnologia."
+  },
+  {
+    "id": "VM-04",
+    "cor": "vermelho",
+    "afirmacao": "Copiar o texto gerado por IA em um site de respostas, colar no trabalho de História e assinar com o seu nome, sem ler o conteúdo.",
+    "explicacao": "Plágio total. Você está mentindo sobre a autoria de um esforço intelectual que não foi seu."
+  },
+  {
+    "id": "VM-05",
+    "cor": "vermelho",
+    "afirmacao": "Usar geradores de IA para criar perfis falsos perfeitos de pessoas que não existem para fazer amizade e roubar dinheiro em redes sociais.",
+    "explicacao": "É estelionato e crime cibernético. Enganar intencionalmente outras pessoas usando rostos e identidades falsas geradas por IA causa prejuízos financeiros e emocionais."
+  },
+  {
+    "id": "VM-06",
+    "cor": "vermelho",
+    "afirmacao": "Pegar a arte ou o desenho original de um ilustrador independente da internet, passar por uma IA para mudar um pouco o traço e publicar dizendo que o desenho é 100% autoral.",
+    "explicacao": "Roubo de direitos autorais. Isso prejudica diretamente o trabalho de artistas que ganham a vida com a criatividade."
+  }
+]

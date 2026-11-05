@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+/* Tokens do design das cartelas (especificacao-design-sorteio-bingo.md). */
+:root {
+  --bg-app: #f4f1ea;
+  --surface: #ffffff;
+  --ink: #1f1d2b;
+  --ink-hover: #33303f;
+  --ink-muted: #5a5766;
+  --on-tile: #ffffff;
+  --star: #f5c542;
+}
+
+@theme inline {
+  --color-app: var(--bg-app);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-ink-hover: var(--ink-hover);
+  --color-ink-muted: var(--ink-muted);
+  --color-on-tile: var(--on-tile);
+  --color-star: var(--star);
+  --font-sans: var(--font-fredoka), system-ui, sans-serif;
+
+  --animate-surgir: surgir 0.35s ease-out;
+  --animate-pulo: pulo 0.4s ease-out;
+  --animate-balanco: balanco 0.18s ease-in-out infinite alternate;
+
+  @keyframes balanco {
+    from {
+      transform: rotate(-5deg) scale(0.97);
+    }
+    to {
+      transform: rotate(5deg) scale(1.03);
+    }
+  }
+
+  @keyframes surgir {
+    from {
+      opacity: 0;
+      transform: translateY(12px);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+
+  @keyframes pulo {
+    0%,
+    100% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.06);
+    }
+  }
+}
+
+body {
+  background: var(--bg-app);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  font-weight: 500;
+}
+
+/* O Tailwind 4 deixa botões com cursor padrão; aqui eles voltam a ter a mãozinha. */
+button:not(:disabled) {
+  cursor: pointer;
+}
+
+/* Foco visível padrão para todos os controles. */
+:where(button, input, [tabindex]):focus-visible {
+  outline: 3px solid var(--star);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}
